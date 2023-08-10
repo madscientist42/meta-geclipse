@@ -1,9 +1,9 @@
-# eclipse bbclass/inherit for yocto
+# eclipse bbclass for yocto
 
 Yocto bbclass for fast deployment of eclipse`s CDT based projects into yocto.
 
 Author          :  Jiri Andrys (andrys.jiri+project_yoctogeclipse@gmail.com)  
-Maintainer      :  Jiri Andrys  
+Maintainer      :  Frank Earl  (This is a fork of the original from Jiri...)
 
 
 ## 0. Overview 
